@@ -1,0 +1,44 @@
+{
+    "name": "signlanguage",
+    "version": "1.0.0",
+    "private": true,
+    "description": "it will allow the people who only read sign language to use the app by translating any option they want and interact with them",
+    "keywords": [
+        "chayns",
+        "chayns-toolkit",
+        "react"
+    ],
+    "scripts": {
+        "build": "chayns-toolkit build",
+        "dev": "chayns-toolkit dev",
+        "start": "chayns-toolkit dev",
+        "format": "prettier . --write",
+        "lint": "chayns-toolkit lint"
+    },
+    "prettier": {
+        "proseWrap": "always",
+        "singleQuote": true,
+        "tabWidth": 4
+    },
+    "eslintConfig": {
+        "extends": "@chayns-toolkit"
+    },
+    "dependencies": {
+        "@auth0/auth0-react": "^2.2.1",
+        "chayns-components": "^4.24.25",
+        "express": "^4.18.2",
+        "firebase": "^10.4.0",
+        "prop-types": "^15.8.1",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.23.0",
+        "babel-plugin-macros": "^3.1.0",
+        "babel-plugin-optimize-clsx": "^2.6.2",
+        "chayns-toolkit": "^2.0.8",
+        "prettier": "^2.7.1",
+        "prettier-plugin-packagejson": "^2.3.0",
+        "react-devtools": "^2.1.7"
+    }
+}
