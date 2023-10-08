@@ -4,7 +4,8 @@ This project is based on
  ![Alt text for your image](WebApp.png)
 
 # Application Overview
-Sign APP is a comprehensive chat application that allows users to communicate in real-time. Here are some of its key features:
+Sign APP is a comprehensive chat application that allows users to communicate in real-time. The App is for learning purposes, and it is a great app to start building your complete Chat System.
+Here are some of its key features:
 
 #### Real-time Messaging: 
 Users can send and receive messages instantly.
