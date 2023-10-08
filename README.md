@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
     <h1>signlanguage</h1>
     <p>Sign APP</p>
@@ -49,3 +50,6 @@ This project is based on
 [`chayns-toolkit`](https://github.com/TobitSoftware/chayns-toolkit). If you
 encounter any issues with the toolchain and the commands, please
 [open an issue](https://github.com/TobitSoftware/chayns-toolkit/issues/new).
+=======
+
+>>>>>>> 1f44b4a5cbc867d91b037e9072401ea14d8334e5
