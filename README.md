@@ -1,6 +1,7 @@
 This project is based on
 [`chayns-toolkit`](https://github.com/TobitSoftware/chayns-toolkit)
 
+ ![Alt text for your image](WebApp.png)
 
 # Application Overview
 Sign APP is a comprehensive chat application that allows users to communicate in real-time. Here are some of its key features:
